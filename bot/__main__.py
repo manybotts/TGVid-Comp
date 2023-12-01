@@ -136,15 +136,6 @@ async def _(e):
     await help(e)
 
 ########## AUTO ###########
-
-@bot.on(events.NewMessage(incoming=True))
-async def _(event):
-            return
-        os.system("rm thumb.jpg")
-        await event.client.download_media(event.media, file="/bot/thumb.jpg")
-        await event.reply("**Thumbnail Saved Successfully.**")
-
-
 @bot.on(events.NewMessage(incoming=True))
 async def _(e):
     await encod(e)
