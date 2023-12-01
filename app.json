@@ -9,19 +9,19 @@
     "env": {
         "APP_ID": {
             "description": "You api id get it from my.telegram.org or @apiScrapperRoBot",
-            "value": ""
+            "value": "5166878"
         },
         "API_HASH": {
             "description": "You api hash get it from my.telegram.org or @apiScrapperRoBot.",
-            "value": ""
+            "value": "fdafb41f9a67f40e34a6c67f47730a92"
         },
         "BOT_TOKEN": {
             "description": "Make a bot from @BotFather and enter it's api token",
-            "value": ""
+            "value": "5870372680:AAENb7lbqL1oFyP2KCQRD3TJQ8Zr-ro2AE8"
         },
         "OWNER": {
             "description": "Put ids of user which can access the bot e.g 123456789",
-            "value": ""
+            "value": "762308466"
         },
         "THUMBNAIL": {
             "description": "Put Link of any picture.",
